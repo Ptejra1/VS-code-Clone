@@ -23,3 +23,6 @@ VS clone/
 
 ## Author
 **Ptejra1**
+
+## Updated
+Last updated: November 2025
